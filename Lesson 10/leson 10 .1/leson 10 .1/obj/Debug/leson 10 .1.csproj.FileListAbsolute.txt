@@ -1,0 +1,7 @@
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\bin\Debug\leson_10._1.exe.config
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\bin\Debug\leson_10._1.exe
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\bin\Debug\leson_10._1.pdb
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\obj\Debug\leson 10 .1.csproj.AssemblyReference.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\obj\Debug\leson 10 .1.csproj.CoreCompileInputs.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\obj\Debug\leson_10._1.exe
+D:\visual Project\КУРСЫ GEKK BRAINS\leson 10 .1\leson 10 .1\obj\Debug\leson_10._1.pdb
